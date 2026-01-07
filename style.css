@@ -60,6 +60,7 @@ nav a {
   color: var(--cor1);
   font-weight: bold;
 
+  text-align: center;
   border-radius: 5px; 
   transition-duration: 0.5s;
 }
